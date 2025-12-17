@@ -15,16 +15,12 @@ The order of the returned indices does not matter.
 Input: nums = [2, 7, 11, 15], target = 9
 Output: [0, 1]
 
-markdown
-Copy code
 Explanation: `nums[0] + nums[1] = 2 + 7 = 9`
 
 **Example 2**
 Input: nums = [3, 2, 4], target = 6
 Output: [1, 2]
 
-markdown
-Copy code
 
 **Example 3**
 Input: nums = [3, 3], target = 6
