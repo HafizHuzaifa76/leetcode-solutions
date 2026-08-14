@@ -1,3 +1,5 @@
+from typing import Optional, ListNode
+
 class Solution:
     def swapPairs(self, head):
         dummy = ListNode(0)
