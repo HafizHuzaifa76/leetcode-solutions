@@ -1,0 +1,19 @@
+### 28. Find the Index of the First Occurrence in a String
+
+Given two strings `haystack` and `needle`, return the **index of the first occurrence** of `needle` in `haystack`.
+
+If `needle` does not occur in `haystack`, return `-1`.
+
+If `needle` is found, return the starting index of its first occurrence.
+
+**Example:**
+
+```text
+Input:  haystack = "sadbutsad", needle = "sad"
+Output: 0
+```
+
+```text
+Input:  haystack = "leetcode", needle = "leeto"
+Output: -1
+```
